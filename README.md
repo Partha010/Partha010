@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%20👋,%20I'm%20Partha&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%20👋,%20I'm%20Parthajit Banik&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 </div>
 
@@ -25,20 +25,20 @@
 
 ## 🚀 Projects
 
-### Project 1
-Your project description here  
-(Add your live link)
+### Doctor Office
+Hospital management web platform  
+http://doctorsoffice.gt.tc  
 
-### Project 2
-Your project description here  
-(Add your live link)
+### Event Management System
+Event management system built with PHP, HTML, CSS, JS and MySQL  
+https://evntro.rf.gd/  
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,html,css,js,php,mysql,mongodb,react,nodejs,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,php,mysql,mongodb,react,nodejs,github,vscode" />
 </p>
 
 ---
@@ -74,7 +74,7 @@ Your project description here
 <table>
 <tr>
 <td><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></td>
-<td><a href="#">Add your LinkedIn link</a></td>
+<td><a href="#">https://www.linkedin.com/in/parthajit-banik-3b7492382?utm_source=share_via&utm_content=profile&utm_medium=member_android</a></td>
 </tr>
 
 <tr>
@@ -84,6 +84,6 @@ Your project description here
 
 <tr>
 <td><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></td>
-<td><a href="mailto:yourmail@gmail.com">yourmail@gmail.com</a></td>
+<td><a href="mailto:yourmail@gmail.com">parthajitbanik6@gmail.com</a></td>
 </tr>
 </table>
