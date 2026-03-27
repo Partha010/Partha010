@@ -1,9 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%20👋,%20I'm%20Parthajit Banik&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%20👋,%20I'm%20Parthajit%20Banik&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 </div>
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Programmer;CSE+Student&center=true&width=500&height=45">
 </p>
@@ -74,7 +73,7 @@ https://evntro.rf.gd/
 <table>
 <tr>
 <td><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></td>
-<td><a href="#">https://www.linkedin.com/in/parthajit-banik-3b7492382?utm_source=share_via&utm_content=profile&utm_medium=member_android</a></td>
+<td><a href="#">https://www.linkedin.com/in/parthajit-banik-3b7492382/</a></td>
 </tr>
 
 <tr>
