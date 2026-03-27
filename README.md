@@ -73,7 +73,7 @@ https://evntro.rf.gd/
 <table>
 <tr>
 <td><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></td>
-<td><a href="#">https://www.linkedin.com/in/parthajit-banik-3b7492382/</a></td>
+<td><a href="#">https://www.linkedin.com/in/parthajit-banik-3b7492382</a></td>
 </tr>
 
 <tr>
