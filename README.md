@@ -37,7 +37,7 @@ https://evntro.rf.gd/
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js,php,mysql,mongodb,react,nodejs,github,vscode,colab" />
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,php,mysql,mongodb,react,nodejs,github,vscode,jupyter " />
 </p>
 
 ---
